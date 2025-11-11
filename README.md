@@ -43,7 +43,7 @@ This project is about the Train-Ticket-Reservation-System which is used to view 
 - Change Password
 - Logout
 
-### Technologies used:-
+### Technologies used:--
 1. Front-End Development:
 - HTML
 - CSS
